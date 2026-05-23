@@ -62,8 +62,8 @@ function App() {
       {/* Sidebar */}
       <aside className={`sidebar ${isMobileMenuOpen ? 'mobile-open' : ''}`}>
         <div className="sidebar-header">
-          <h1>College LMS</h1>
-          <p>Learning Management System</p>
+          <h1>EduPilot</h1>
+          <p>College Tracking System</p>
         </div>
         <nav>
           <ul className="sidebar-nav">
